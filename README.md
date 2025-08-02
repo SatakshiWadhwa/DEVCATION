@@ -15,7 +15,7 @@ Welcome to the official website of **Devcation '25**, a vibrant and futuristic h
 - **Judges** – Sleek profile section  
 - **Prizes** – Interactive hover/flip cards  
 - **USP Section** – Animated, glowy highlights of what makes us special  
-- **Footer** – Contact + "Built With Love 💖 by Ayushee"
+- **Footer** – Contact + "Built With Love 💖 by Satakshi"
 
 ---
 
